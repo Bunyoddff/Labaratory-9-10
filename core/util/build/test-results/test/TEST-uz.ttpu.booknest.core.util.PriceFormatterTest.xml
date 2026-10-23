@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uz.ttpu.booknest.core.util.PriceFormatterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-23T13:45:52" hostname="MackBookpro.local" time="0.035">
+  <properties/>
+  <testcase name="formatsWholeDollars" classname="uz.ttpu.booknest.core.util.PriceFormatterTest" time="0.03"/>
+  <testcase name="padsSingleDigitCents" classname="uz.ttpu.booknest.core.util.PriceFormatterTest" time="0.0"/>
+  <testcase name="formatsZero" classname="uz.ttpu.booknest.core.util.PriceFormatterTest" time="0.001"/>
+  <testcase name="formatsBoundaryNinetyNineCents" classname="uz.ttpu.booknest.core.util.PriceFormatterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

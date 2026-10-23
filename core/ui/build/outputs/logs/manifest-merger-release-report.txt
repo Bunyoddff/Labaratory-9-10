@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml:2:13-83
+INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml:2:13-83
+	package
+		INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml
+	xmlns:android
+		ADDED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml:2:23-81
+uses-sdk
+INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml reason: use-sdk injection requested
+INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml
+INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml
+	android:targetSdkVersion
+		INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml
+	android:minSdkVersion
+		INJECTED from /Users/a1234/Downloads/Upwork/Turin/apk/Labaratory-9-10/core/ui/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest12619162914927083069.xml
